@@ -26,6 +26,7 @@ log.api.zaloapp.com
 ads.zaloapp.com
 ads.zdn.vn
 centralized.zaloapp.com
+miniappstore.api.zalo.me
 ||zaloramy.api.sociaplus.com
 ||zalorasg.api.sociaplus.com
 ||stc.za.zaloapp.com
@@ -81,4 +82,6 @@ centralized.zaloapp.com
 ||ads.zaloapp.com^
 ||ads.zdn.vn^
 ||centralized.zaloapp.com^
+||miniappstore.api.zalo.me^
+
 
