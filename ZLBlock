@@ -190,7 +190,6 @@ connectivitycheck.gstatic.com
 geomobileservices-pa.googleapis.com
 android.apis.google.com
 roughtime.sandbox.google.com
-www.gstatic.com
 notifications-pa.googleapis.com
 crashlyticsreports-pa.googleapis.com
 .userlocation.googleapis.com
@@ -208,6 +207,12 @@ fonts.googleapis.com
 fonts.gstatic.com
 dl.google.com
 mtalk.google.com
+quake-pa.googleapis.com
+geller-pa.googleapis.com
+beacons.gcp.gvt2.com
+
+
+
 ====
 
 dns.ladipage.com
