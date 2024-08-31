@@ -169,6 +169,7 @@ xp.apple.com
 miniappstore.api.zalo.me
 log.api.zaloapp.com
 qos-talk.123c.vn
+button-follow.zalo.me
 
 
 
@@ -227,6 +228,7 @@ dl.google.com
 quake-pa.googleapis.com
 geller-pa.googleapis.com
 beacons.gcp.gvt2.com
+adservice.google.com.vn
 
 
 
@@ -282,7 +284,7 @@ mon-va.tiktokv.com
 plugin-server.wps.com
 batchlogging4-noneu.truecaller.com
 edge-locations5-noneu.truecaller.com
-
+ca.iadsdk.apple.com
 
 
 
