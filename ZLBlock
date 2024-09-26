@@ -83,7 +83,6 @@ zagoo.vn
 zalo.cloud
 zalo.video
 discovery.api.zaloapp.com
-stc-zmp.zadn.vn
 sentry-mini.zalo.me
 broadcast.api.zaloapp.com
 oa.zalo.me
@@ -137,17 +136,13 @@ failover.zingmp3.vn
 
 ===
 api.adtimaserver.vn
-optimizationguide-pa.googleapis.com
 ssl.google-analytics.com
 googleads.g.doubleclick.net
 connectivitycheck.gstatic.com
 geomobileservices-pa.googleapis.com
 android.apis.google.com
-roughtime.sandbox.google.com
 notifications-pa.googleapis.com
 crashlyticsreports-pa.googleapis.com
-.userlocation.googleapis.com
-userlocation.googleapis.com
 path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
@@ -160,14 +155,14 @@ api.settingshelper.com
 fonts.googleapis.com
 fonts.gstatic.com
 dl.google.com
-quake-pa.googleapis.com
 geller-pa.googleapis.com
 beacons.gcp.gvt2.com
 adservice.google.com.vn
 www.googleadservices.com
 www.googletagmanager.com
 public-gcs.subiz-cdn.com
-
+userlocation.googleapis.com
+firebaselogging-pa.googleapis.com
 ====
 
 dns.ladipage.com
