@@ -16,6 +16,64 @@ report.zalo.me
 telemetry.zaloapp.com
 script.zalo.me
 log.zapps.me
+# === KHÁM PHÁ (Discover/Explore) ===
+discover.zalo.me
+explore.zalo.me
+recommend.zalo.me
+suggestion.zalo.me
+trending.zalo.me
+home.zalo.me
+# === NHẬT KÝ (Story/Timeline/Feed) ===
+feed.zalo.me
+story.zalo.me
+timeline.zalo.me
+moment.zaloapp.com
+social.zalo.me
+post.zalo.me
+# === QUẢNG CÁO TRONG NHẬT KÝ ===
+ads.zalo.me
+adv.zalo.me
+ads-platform.zalo.me
+sp.zalo.me
+sponsor.zalo.me
+promote.zalo.me
+# === ZALO OA / ZNS SPAM ===
+zns.zalo.me
+notification.zaloapp.com
+oa.zalo.me
+broadcast.zalo.me
+# === NỘI DUNG / TIN TỨC ===
+news.zalo.me
+article.zalo.me
+content.zalo.me
+media.zalo.me
+# === SHOP / THƯƠNG MẠI ===
+shop.zalo.me
+commerce.zalo.me
+market.zalo.me
+# === ERP / BUSINESS / MARKETING ===
+erp.zalo.me
+hub.zalo.me
+business.zalo.me
+crm.zalo.me
+# === VIDEO FEED / LIVE ===
+zalo.video
+stream.zalo.me
+live.zalo.me
+shorts.zalo.me
+# === TRACKING ĐI KÈM ===
+event.zalo.me
+tracking.zalo.me
+pixel.zalo.me
+tag.zalo.me
+log.zalo.me
+stat.zalo.me
+analytics.zaloapp.com
+centralized.zaloapp.com
+beacon.zaloapp.com
+sp1.zdn.vn
+sp2.zdn.vn
+sp3.zdn.vn
 ######VIBER####
 ads.viber.com
 ads.aws.viber.com
