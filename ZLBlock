@@ -117,6 +117,49 @@ id.zing.vn
 passport.zing.vn
 oauth.zing.vn
 sso.zing.vn
+# === ZALO OA CORE =================================
+oa.zalo.me
+openapi.zalo.me
+business.openapi.zalo.me
+zns.zalo.me
+zca.zalo.me
+zma.zalo.me
+# === OA BROADCAST / NOTIFICATION =====================
+broadcast.zalo.me
+notification.zaloapp.com
+push-notification.zaloapp.com
+alert.zalo.me
+noti.zalo.me
+# === OA FORM / LANDING PAGE ===========================
+form.zalo.me
+form.ads.zalo.me
+zpage.zalo.me
+page.zalo.me
+landing.zalo.me
+miniapp.zalo.me
+# === OA DEVELOPER / SDK ===========================
+developers.zalo.me
+stc-developers.zdn.vn
+dev.zalo.me
+sdk.zalo.me
+webhook.zalo.me
+# === OA STATIC / CDN ===========================
+stc-oa.zdn.vn
+stc.zdn.vn
+img-oa.zdn.vn
+media-oa.zdn.vn
+# === OA HUB / CRM / MARKETING ===================
+hub.zalo.me
+crm.zalo.me
+erp.zalo.me
+business.zalo.me
+shop.zalo.me
+promote.zalo.me
+sponsor.zalo.me
+# === ZNS / ZCA / ZMA ===========================
+zalo.cloud
+zca.zalo.me
+zma.zalo.me
 # ================######VIBER####================
 ads.viber.com
 ads.aws.viber.com
