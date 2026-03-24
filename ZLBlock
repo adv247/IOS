@@ -16,52 +16,52 @@ report.zalo.me
 telemetry.zaloapp.com
 script.zalo.me
 log.zapps.me
-# === KHÁM PHÁ (Discover/Explore) ===
+# === KHÁM PHÁ (Discover/Explore) ========================
 discover.zalo.me
 explore.zalo.me
 recommend.zalo.me
 suggestion.zalo.me
 trending.zalo.me
 home.zalo.me
-# === NHẬT KÝ (Story/Timeline/Feed) ===
+# === NHẬT KÝ (Story/Timeline/Feed) ======================
 feed.zalo.me
 story.zalo.me
 timeline.zalo.me
 moment.zaloapp.com
 social.zalo.me
 post.zalo.me
-# === QUẢNG CÁO TRONG NHẬT KÝ ===
+# === QUẢNG CÁO TRONG NHẬT KÝ =========================
 ads.zalo.me
 adv.zalo.me
 ads-platform.zalo.me
 sp.zalo.me
 sponsor.zalo.me
 promote.zalo.me
-# === ZALO OA / ZNS SPAM ===
+# === ZALO OA / ZNS SPAM ================================
 zns.zalo.me
 notification.zaloapp.com
 oa.zalo.me
 broadcast.zalo.me
-# === NỘI DUNG / TIN TỨC ===
+# === NỘI DUNG / TIN TỨC ================================
 news.zalo.me
 article.zalo.me
 content.zalo.me
 media.zalo.me
-# === SHOP / THƯƠNG MẠI ===
+# === SHOP / THƯƠNG MẠI ================================
 shop.zalo.me
 commerce.zalo.me
 market.zalo.me
-# === ERP / BUSINESS / MARKETING ===
+# === ERP / BUSINESS / MARKETING =======================
 erp.zalo.me
 hub.zalo.me
 business.zalo.me
 crm.zalo.me
-# === VIDEO FEED / LIVE ===
+# === VIDEO FEED / LIVE ==================================
 zalo.video
 stream.zalo.me
 live.zalo.me
 shorts.zalo.me
-# === TRACKING ĐI KÈM ===
+# ================= TRACKING ĐI KÈM ======================
 event.zalo.me
 tracking.zalo.me
 pixel.zalo.me
@@ -74,7 +74,50 @@ beacon.zaloapp.com
 sp1.zdn.vn
 sp2.zdn.vn
 sp3.zdn.vn
-######VIBER####
+# === ZING NEWS / ZNEWS ===============================
+zingnews.vn
+znews.vn
+cdn.zingnews.vn
+static.zingnews.vn
+ads.zingnews.vn
+tracking.zingnews.vn
+# === ZING MP3 =======================================
+zingmp3.vn
+mp3.zing.vn
+st.mp3.zing.vn
+cdn.zingmp3.vn
+ads.zingmp3.vn
+logging.zingmp3.vn
+# === ZING TV / VIDEO ================================
+zingtv.vn
+tv.zing.vn
+cdn.zingtv.vn
+# === ZING PLAY (GAME VNG) ===========================
+zingplay.com
+game.zing.vn
+cdn.zingplay.com
+# === VNG ADS & TRACKING ============================
+ads.vng.com.vn
+adnet.vng.com.vn
+tracking.vng.com.vn
+analytics.vng.com.vn
+log.vng.com.vn
+stat.vng.com.vn
+pixel.vng.com.vn
+metrics.vng.com.vn
+# === VNG CDN / SHARED INFRA ======================
+vgcloud.vn
+talk.zing.vn
+cdn.zing.vn
+static.zing.vn
+img.zing.vn
+ads.zing.vn
+# === ZING ID / SSO (login cross-app) =============
+id.zing.vn
+passport.zing.vn
+oauth.zing.vn
+sso.zing.vn
+# ================######VIBER####================
 ads.viber.com
 ads.aws.viber.com
 ads-d.viber.com
